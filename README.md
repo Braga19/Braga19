@@ -2,7 +2,10 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Data Analysis:</b>
-  - [Review Analysis Tool](https://github.com/Braga19/INSIGHTS)
+  - <b>Python</b>:
+    - [Review Analysis Tool](https://github.com/Braga19/INSIGHTS)
+  - <b>SQL + Tableau</b>:
+    - [Prosper Loan Analysis](https://github.com/Braga19/ProsperLoan)
  
 - <b> Machine Learning: </b>
   - [Autorship Predictions](https://github.com/Braga19/Autorship_Predictions)
