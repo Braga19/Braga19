@@ -4,8 +4,9 @@
 - <b>Data Analysis:</b>
   - <b>Python</b>:
     - [Review Analysis Tool](https://github.com/Braga19/INSIGHTS)
-  - <b>SQL + Tableau</b>:
+  - <b>SQL/Python + Tableau</b>:
     - [Prosper Loan Analysis](https://github.com/Braga19/ProsperLoan)
+    - [Digital Marketing Campaign](https://github.com/Braga19/Digital_Marketing_Campaign)
  
 - <b> Machine Learning: </b>
   - [Autorship Predictions](https://github.com/Braga19/Autorship_Predictions)
